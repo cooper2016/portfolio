@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "This is my portfolio that will show case the projects I have worked on and research I've been apart of.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cooper2016/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cooper2016/portfolio/issues"
+  },
+  "homepage": "https://github.com/cooper2016/portfolio#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
